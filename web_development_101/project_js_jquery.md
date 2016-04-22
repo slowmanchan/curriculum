@@ -395,4 +395,5 @@ If you get totally stuck, solutions from other students are listed below.  I'd e
 * [Monika Dutka's solution](https://github.com/rawrins/sketchpad-project) | [Preview](http://htmlpreview.github.io/?https://github.com/rawrins/sketchpad-project/blob/master/index.html)
 * [Mason Embry's Solution](https://github.com/embryCODE/sketchpad) | [View in browser](http://htmlpreview.github.io/?https://github.com/embryCODE/sketchpad/blob/master/index.html)
 * [Jason Keeney's Solution](https://github.com/jkeeney/etch-a-sketch) | [View in browser](http://htmlpreview.github.io/?https://github.com/jkeeney/etch-a-sketch/blob/master/index.html)
+* [Norman Chan's Solution](https://github.com/slowmanchan/etchAndSketch) | [View in browser](http://htmlpreview.github.io/?https://github.com/slowmanchan/etchAndSketch/blob/master/index.html)
 * Add your solution above this line!
